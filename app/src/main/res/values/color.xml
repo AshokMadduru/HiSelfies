@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ColorPrimary">#FF5722</color>
+    <color name="ColorPrimaryDark">#E64A19</color>
+    <color name="header_background">#c10719</color>
+    <color name="home_panel_background">#efefef</color>
+    <color name="facilities_inactive">#ff5253</color>
+    <color name="ath_green">#639C31</color>
+    <color name="facebook_color">#347AB8</color>
+    <color name="gplus_color">#D9544F</color>
+    <color name="royalblue">#4169E1</color>
+    <color name="cornflowerblue">#6495ED</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#808080</color>
+    <color name="red">#FF0000</color>
+    <color name="fbmediumblue">#6d84b4</color>
+    <color name="countdown">#ac2925</color>
+    <color name="tabsScrollColor">#004D40</color>
+</resources>
